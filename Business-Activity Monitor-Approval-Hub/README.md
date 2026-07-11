@@ -1,10 +1,12 @@
-**Business-Activity Monitor-Approval-Hub**,  
+# Business-Activity Monitor-Approval-Hub
 
 ---
 
-![Pipeline Architecture Blueprint](asset/Business-Activity Monitor-Approval-Hub.png)
 
-![Pipeline Architecture Blueprint](asset/Business-Activity Monitor-Approval-Hub-WhatsApp.jpeg)
+![Pipeline Architecture Blueprint](asset/Business-Activity%20Monitor-Approval-Hub.png)
+
+![Pipeline Architecture Blueprint](asset/Business-Activity%20Monitor-Approval-Hub-WhatsApp.jpeg)
+
 
 ## 1. Project Overview & Architecture
 
