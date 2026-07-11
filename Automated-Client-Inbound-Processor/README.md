@@ -11,7 +11,7 @@
 ### The Zapier Architecture (The "Flow")
 
 | Step | Component | Action |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | **Trigger** | Gmail | New Email Matching Search (e.g., in:inbox) |
 | **Action 1** | **OpenAI (ChatGPT)** | Prompt: "Analyze this email. Return: Sentiment, Priority, Category, and a 2-sentence draft." |
 | **Action 2** | HubSpot | Find or Create Contact. |
