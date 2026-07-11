@@ -22,6 +22,7 @@ $$Hook\ Retention\ Rate = \left(\frac{3\text{-Second Video Views}}{\text{Total V
 * **Customers:** Downstream database repositories (Airtable Tracking Engine) and real-time communication networks (Slack Channels).
 
 ---
+![Pipeline Architecture Blueprint](assets/Creative_Hook_Optimization_Engine.png)
 
 ## 4. Automation Step Blueprint
 
