@@ -1,7 +1,7 @@
 # Leasing Assistant
 
 ---
-![Pipeline Architecture Blueprint](asset/Leasing-Automation.pngLeasing-Automation.png)
+![Pipeline Architecture Blueprint](asset/Leasing-Automation.png)
 
 ### Workflow Name: Leasing_Engine_v1
 
