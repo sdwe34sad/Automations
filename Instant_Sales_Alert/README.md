@@ -1,9 +1,10 @@
-The "Instant Sales Alert" (Priority Leads)
+# The "Instant Sales Alert" (Priority Leads)
 
-Goal: Immediate enrichment and notification for high-intent traffic.
+* **Goal** : Immediate enrichment and notification for high-intent traffic.
 
 This automation is a high-impact workflow for Sales Development Representatives (SDRs). By enriching leads in real-time, you ensure that your sales team isn't just chasing leads, but chasing the *right* leads.
 
+![Pipeline Architecture Blueprint](asset/Instant_Sales_Alert.png)
 ---
 
 ## 1. Setup & Configuration Guide
