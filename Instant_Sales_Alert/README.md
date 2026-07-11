@@ -94,6 +94,7 @@ output = { score: score };
 When running your test, look for these specific outputs:
 
 | Field | Expected Data Type | Example Test Value |
+| :--- | :--- | :--- |
 | **Apollo Data** | String/Number | "Acme Corp", "150", "Tech" |
 | **Formatter/Code** | String | "High" |
 | **Airtable** | Record Created | [Link to Record] |
